@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    text-align: center;
+}
+
+.test{
+    width: 1350px;
+    height: 40px;
+    background-color: #6495ED;
+    margin: 100px auto;
+    border-radius: 1.2;
+}
+
+a{
+    color: white;
+    display: block;
+    width: 337.5px;
+    height: 40px;
+    float: left;
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: 黑体;
+}
+
+a:hover{
+    background-color: red;
+}
